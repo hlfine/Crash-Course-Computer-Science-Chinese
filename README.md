@@ -5,13 +5,13 @@ https://www.bilibili.com/video/av21376839/
 
 <br/>
 
-![bilibili](/image/cs40.jpg)    
+![bilibili](content/image/cs40.jpg)    
 
 ## 字幕也放出来了(40集中英字幕)         
 两个版本：        
 
-* [所有字幕放一个文件里](./(字幕)全40集中英字幕文本.txt)       
-* [每一集一个文件，共40个文件](./(字幕)全40集中英字幕文本)  
+* [所有字幕放一个文件里](./content/(字幕)全40集中英字幕文本.txt)       
+* [每一集一个文件，共40个文件](./content/(字幕)全40集中英字幕文本)  
 
 另外，片头总结在 **这篇文章的底部**  
 感谢观看，Don't forget to be Awesome!      
@@ -94,7 +94,7 @@ https://www.bilibili.com/video/av21376839/
 
 ### 原视频
 [Youtube - Crash Course Computer Science Playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)     
-![Crash Course CS screenshoht](/image/english.png)       
+![Crash Course CS screenshoht](content/image/english.png)       
 
 
 # Thank you Crash Course & Carrie Anne!
